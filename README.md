@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<meta name="description" content="ClothCraft - stylish women's night suits, t-shirts, plazos, lowers, tops, new arrivals and co-ord sets.">
+<meta name="description" content="BHAJNI FASHION - stylish women's night suits, t-shirts, plazos, lowers, tops, new arrivals and co-ord sets.">
 <meta name="theme-color" content="#17131b">
 <title>ClothCraft — Wear Your Mood</title>
 <style>
